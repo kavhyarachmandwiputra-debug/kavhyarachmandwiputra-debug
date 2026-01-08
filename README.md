@@ -1,5 +1,5 @@
-## Hello World!!! 👋
-### I'm Kavhya Rachman Dwiputra
+## **Hello World!!!** I'm Kavhya Rachman Dwiputra 👋
+![Header](img/github-header-banner.png)
 
 <!--
 **kavhyarachmandwiputra-debug/kavhyarachmandwiputra-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
