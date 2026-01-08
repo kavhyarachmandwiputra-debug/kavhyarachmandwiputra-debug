@@ -1,6 +1,4 @@
-## **Hello World!!!** I'm Kavhya Rachman Dwiputra 👋
 ![Header](img/github-header-banner.png)
-
 <!--
 **kavhyarachmandwiputra-debug/kavhyarachmandwiputra-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 💫About Me
+#### Hello World! I'm Kavhya Rachman Dwiputra
+##### Socials :
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+##### Skills :
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,java,css,py,kotlin&perline=3)](https://skillicons.dev)
